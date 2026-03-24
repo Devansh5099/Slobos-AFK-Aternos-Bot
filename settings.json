@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Fahhh",
+    "username": "nhi dhund paaoge merko",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
-    "ip": "SilkSMP007.aternos.me:52747",
+    "ip": "SilkSMP007.aternos.me",
     "port": 52747,
     "version": "1.21.4",
     "try-creative": false
