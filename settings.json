@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SilkSMP007.aternos.me",
+    "ip": "SilkSMP007.aternos.me:52747",
     "port": 52747,
     "version": "1.21.4",
     "try-creative": false
